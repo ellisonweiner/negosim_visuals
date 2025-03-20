@@ -1,4 +1,4 @@
-graph TD
+
     A[Artificial Intelligence (AI)] --> B(Machine Learning);
     A --> C(Natural Language Processing);
     A --> D(Computer Vision);
